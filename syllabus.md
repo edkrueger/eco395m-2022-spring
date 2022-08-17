@@ -1,4 +1,4 @@
-# ECO 395m: Python, Databases, and Big Data
+# ECO 395m: Python, Databases, and Big Data (Archive of Spring 2022)
 Unique Numbers 34822, 34823, 34824
 
 Course website: https://github.com/edkrueger/eco395m
